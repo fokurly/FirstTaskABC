@@ -1,0 +1,3 @@
+"D:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\FirstTaskABC.dir/objects.a
+D:\c++\bin\ar.exe cr CMakeFiles\FirstTaskABC.dir/objects.a @CMakeFiles\FirstTaskABC.dir\objects1.rsp
+D:\c++\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\FirstTaskABC.dir/objects.a -Wl,--no-whole-archive -o FirstTaskABC.exe -Wl,--out-implib,libFirstTaskABC.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FirstTaskABC.dir\linklibs.rsp

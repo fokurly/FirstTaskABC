@@ -1,0 +1,16 @@
+5
+1 3
+i love you
+first
+2 4
+i am your friend
+second
+3 3
+i hate you
+third
+2 5
+i want to go there
+four_input
+3 2
+run away
+gosling

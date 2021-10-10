@@ -1,0 +1,3 @@
+C:/Users/buval/CLionProjects/FirstTaskABC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/buval/CLionProjects/FirstTaskABC/cmake-build-debug/CMakeFiles/FirstTaskABC.dir
+C:/Users/buval/CLionProjects/FirstTaskABC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,21 @@
+Container size: 5
+------
+The answer on the riddle is: first
+Content: i love you 
+Special meaning of this content: 3
+------
+The country of this proverb is: third
+Content: i hate you 
+Special meaning of this content: 3
+------
+The author of the aphorism is: four_input
+Content: i want to go there 
+Special meaning of this content: 3
+------
+The author of the aphorism is: second
+Content: i am your friend 
+Special meaning of this content: 4
+------
+The country of this proverb is: gosling
+Content: run away 
+Special meaning of this content: 4
